@@ -8,3 +8,7 @@ Topic:
 ![Screenshot 2025-02-25 091247](https://github.com/user-attachments/assets/54d91482-b6b2-410f-a855-ddd8be884cf5)
 Partitions:
 ![Screenshot 2025-02-25 091302](https://github.com/user-attachments/assets/629d230f-a3e6-4285-9545-cd04320357cd)
+Events offset:
+![Screenshot 2025-02-25 091454](https://github.com/user-attachments/assets/067e025e-39db-4556-ae15-58c0df19c047)
+Replication:
+![Screenshot 2025-02-25 091503](https://github.com/user-attachments/assets/5123a39a-c840-4eba-abf6-6138ae300d63)
